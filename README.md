@@ -10,11 +10,11 @@ Founder & CEO of [CaroNet Systems](https://caronetsystems.com) — building AI w
 
 **[SentinelAC](https://sentinelac.net/)** — Anti-cheat system for FiveM with real-time detection, AI-Powered threat screening, license management, and Stripe billing. (Open-Source Soon)
 
-**F1 RL Agent** *(Summer 2025)* — Reinforcement learning agents trained in Unity ML-Agents on a Formula 1 circuit. Raycast-based perception, competitive multi-agent training.
+**F1 RL Agent** *(Summer 2026)* — Reinforcement learning agents trained in Unity ML-Agents on a Formula 1 circuit. Raycast-based perception, competitive multi-agent training.
 
-**Battle Sim** *(Summer 2025)* — Adversarial multi-agent environment in Unity. Two competing agent factions with distinct ability sets fight across procedurally varied 3D environments. Experimenting with emergent behavior, RL policy divergence, and LLM-assisted decision-making at the agent level.
+**Battle Sim** *(Summer 2026)* — Adversarial multi-agent environment in Unity. Two competing agent factions with distinct ability sets fight across procedurally varied 3D environments. Experimenting with emergent behavior, RL policy divergence, and LLM-assisted decision-making at the agent level.
 
-**Vehicle Autonomy Project** *(Summer 2025)* — Details soon (Tentative).
+**Vehicle Autonomy Project** *(Summer 2026)* — Details soon (Tentative).
 
 ---
 
